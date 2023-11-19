@@ -1,0 +1,55 @@
+{
+    "GA135": {
+        "flight": {
+            "latitude": -5.5481,
+            "longitude": 106.84275,
+            "callsign": "GIA135",
+            "iata": "GA135",
+            "altitude": 9750,
+            "squawk": 7247,
+            "heading": 162.2355845627236,
+            "dep_scheduled": "17:30",
+            "arr_scheduled": "18:55",
+            "arr_estimated": "19:06",
+            "distance": 600,
+            "id": "2064567905"
+        },
+        "airline": {
+            "icao": "GIA",
+            "iata": "GA",
+            "name": "Garuda Indonesia"
+        },
+        "aircraft": {
+            "reg": "PK-GUC",
+            "type": "B738",
+            "desc": "Boeing 737-81M",
+            "number": "44423/5310",
+            "ff": "8 years",
+            "ff_date": "Feb 1, 2015"
+        },
+        "dep_airport": {
+            "latitude": -1.63802,
+            "longitude": 103.644,
+            "icao": "WIJJ",
+            "iata": "DJB",
+            "name": "Sultan Thaha Airport",
+            "city": "Jambi",
+            "timezone_abbr": "WIB",
+            "timezone_name": "Western Indonesia Time",
+            "timezone": "+07:00"
+        },
+        "arr_airport": {
+            "latitude": -6.12557,
+            "longitude": 106.656,
+            "icao": "WIII",
+            "iata": "CGK",
+            "name": "Soekarno-Hatta International Airport",
+            "city": "Jakarta",
+            "timezone_abbr": "WIB",
+            "timezone_name": "Western Indonesia Time",
+            "timezone": "+07:00"
+        },
+        "source": "ADSB",
+        "station": "PGANRB500437"
+    }
+}

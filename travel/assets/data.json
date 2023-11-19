@@ -1,0 +1,381 @@
+[
+   {
+      "airline": "",
+      "altitude": 45000,
+      "arrival": "",
+      "departure": "XSP",
+      "departure_position": [
+         1.41695,
+         103.868
+      ],
+      "flight": "VHSGA",
+      "latitude": -3.52503,
+      "longitude": 108.30322,
+      "source": "ADSB",
+      "type": "GLEX"
+   },
+   {
+      "airline": "CTV",
+      "altitude": 38625,
+      "arrival": "CGK",
+      "arrival_position": [
+         -6.12557,
+         106.656
+      ],
+      "departure": "BTH",
+      "departure_position": [
+         1.12103,
+         104.119
+      ],
+      "flight": "QG945",
+      "latitude": -3.32753,
+      "longitude": 106.16708,
+      "source": "ADSB",
+      "type": "A20N"
+   },
+   {
+      "airline": "GIA",
+      "altitude": 0,
+      "arrival": "CGK",
+      "arrival_position": [
+         -6.12557,
+         106.656
+      ],
+      "departure": "PLM",
+      "departure_position": [
+         -2.89825,
+         104.7
+      ],
+      "flight": "GA119",
+      "latitude": -2.8969,
+      "longitude": 104.70402,
+      "source": "ADSB",
+      "type": "B738"
+   },
+   {
+      "airline": "CTV",
+      "altitude": 125,
+      "arrival": "PLM",
+      "arrival_position": [
+         -2.89825,
+         104.7
+      ],
+      "departure": "BDO",
+      "departure_position": [
+         -6.90063,
+         107.576
+      ],
+      "flight": "QG815",
+      "latitude": -2.89647,
+      "longitude": 104.70299,
+      "source": "ADSB",
+      "type": "A320"
+   },
+   {
+      "airline": "CTV",
+      "altitude": 1050,
+      "arrival": "",
+      "departure": "",
+      "flight": "QG9989",
+      "latitude": -2.89169,
+      "longitude": 104.68467,
+      "source": "ADSB",
+      "type": "A320"
+   },
+   {
+      "airline": "CTV",
+      "altitude": 34050,
+      "arrival": "BTH",
+      "arrival_position": [
+         1.12103,
+         104.119
+      ],
+      "departure": "CGK",
+      "departure_position": [
+         -6.12557,
+         106.656
+      ],
+      "flight": "QG9946",
+      "latitude": -2.25453,
+      "longitude": 104.53077,
+      "source": "ADSB",
+      "type": "A320"
+   },
+   {
+      "airline": "GIA",
+      "altitude": 39000,
+      "arrival": "CGK",
+      "arrival_position": [
+         -6.12557,
+         106.656
+      ],
+      "departure": "SIN",
+      "departure_position": [
+         1.35019,
+         103.994
+      ],
+      "flight": "GA8210",
+      "latitude": -2.12933,
+      "longitude": 105.83693,
+      "source": "ADSB",
+      "type": "A339"
+   },
+   {
+      "airline": "BTK",
+      "altitude": 37000,
+      "arrival": "CGK",
+      "arrival_position": [
+         -6.12557,
+         106.656
+      ],
+      "departure": "KNO",
+      "departure_position": [
+         3.64222,
+         98.8853
+      ],
+      "flight": "ID6885",
+      "latitude": -1.66914,
+      "longitude": 103.81005,
+      "source": "ADSB",
+      "type": "A320"
+   },
+   {
+      "airline": "CTV",
+      "altitude": 38975,
+      "arrival": "HLP",
+      "arrival_position": [
+         -6.26661,
+         106.891
+      ],
+      "departure": "KNO",
+      "departure_position": [
+         3.64222,
+         98.8853
+      ],
+      "flight": "QG25",
+      "latitude": -1.34545,
+      "longitude": 103.3795,
+      "source": "ADSB",
+      "type": "A320"
+   },
+   {
+      "airline": "SIA",
+      "altitude": 43000,
+      "arrival": "SIN",
+      "arrival_position": [
+         1.35019,
+         103.994
+      ],
+      "departure": "SYD",
+      "departure_position": [
+         -33.9461,
+         151.177
+      ],
+      "flight": "SQ222",
+      "latitude": -1.12559,
+      "longitude": 106.95135,
+      "source": "ESTI",
+      "type": "A359"
+   },
+   {
+      "airline": "LNI",
+      "altitude": 36000,
+      "arrival": "KNO",
+      "arrival_position": [
+         3.64222,
+         98.8853
+      ],
+      "departure": "CGK",
+      "departure_position": [
+         -6.12557,
+         106.656
+      ],
+      "flight": "JT212",
+      "latitude": 0.11503,
+      "longitude": 101.56003,
+      "source": "ADSB",
+      "type": "B738"
+   },
+   {
+      "airline": "SIA",
+      "altitude": 12725,
+      "arrival": "SIN",
+      "arrival_position": [
+         1.35019,
+         103.994
+      ],
+      "departure": "AKL",
+      "departure_position": [
+         -37.0081,
+         174.792
+      ],
+      "flight": "SQ286",
+      "latitude": 0.86285,
+      "longitude": 104.55816,
+      "source": "ADSB",
+      "type": "A359"
+   },
+   {
+      "airline": "SIA",
+      "altitude": 1175,
+      "arrival": "SIN",
+      "arrival_position": [
+         1.35019,
+         103.994
+      ],
+      "departure": "BNE",
+      "departure_position": [
+         -27.3842,
+         153.117
+      ],
+      "flight": "SQ236",
+      "latitude": 1.27837,
+      "longitude": 103.96367,
+      "source": "ADSB",
+      "type": "A359"
+   },
+   {
+      "airline": "",
+      "altitude": 0,
+      "arrival": "",
+      "departure": "",
+      "flight": "",
+      "latitude": 1.3843,
+      "longitude": 103.99417,
+      "source": "ADSB",
+      "type": ""
+   },
+   {
+      "airline": "CTV",
+      "altitude": 28350,
+      "arrival": "KNO",
+      "arrival_position": [
+         3.64222,
+         98.8853
+      ],
+      "departure": "BTH",
+      "departure_position": [
+         1.12103,
+         104.119
+      ],
+      "flight": "QG924",
+      "latitude": 2.47197,
+      "longitude": 100.33739,
+      "source": "ADSB",
+      "type": "A20N"
+   },
+   {
+      "airline": "AXM",
+      "altitude": 37000,
+      "arrival": "JHB",
+      "arrival_position": [
+         1.64131,
+         103.67
+      ],
+      "departure": "PEN",
+      "departure_position": [
+         5.29714,
+         100.277
+      ],
+      "flight": "AK6423",
+      "latitude": 2.83118,
+      "longitude": 102.06308,
+      "source": "ADSB",
+      "type": "A320"
+   },
+   {
+      "airline": "TMG",
+      "altitude": 28000,
+      "arrival": "SGN",
+      "arrival_position": [
+         10.8188,
+         106.652
+      ],
+      "departure": "SIN",
+      "departure_position": [
+         1.35019,
+         103.994
+      ],
+      "flight": "GM501",
+      "latitude": 2.95351,
+      "longitude": 104.00899,
+      "source": "ADSB",
+      "type": "B733"
+   },
+   {
+      "airline": "SIA",
+      "altitude": 32000,
+      "arrival": "PVG",
+      "arrival_position": [
+         31.1434,
+         121.805
+      ],
+      "departure": "SIN",
+      "departure_position": [
+         1.35019,
+         103.994
+      ],
+      "flight": "SQ7898",
+      "latitude": 3.53163,
+      "longitude": 106.89342,
+      "source": "ESTI",
+      "type": "B744"
+   },
+   {
+      "airline": "CCA",
+      "altitude": 39000,
+      "arrival": "PVG",
+      "arrival_position": [
+         31.1434,
+         121.805
+      ],
+      "departure": "SIN",
+      "departure_position": [
+         1.35019,
+         103.994
+      ],
+      "flight": "CA630",
+      "latitude": 4.55368,
+      "longitude": 105.23199,
+      "source": "ESTI",
+      "type": "A359"
+   },
+   {
+      "airline": "SIA",
+      "altitude": 38975,
+      "arrival": "SIN",
+      "arrival_position": [
+         1.35019,
+         103.994
+      ],
+      "departure": "BKK",
+      "departure_position": [
+         13.6811,
+         100.747
+      ],
+      "flight": "SQ979",
+      "latitude": 5.602,
+      "longitude": 102.30133,
+      "source": "ADSB",
+      "type": "B78X"
+   },
+   {
+      "airline": "SLK",
+      "altitude": 37000,
+      "arrival": "SIN",
+      "arrival_position": [
+         1.35019,
+         103.994
+      ],
+      "departure": "PNH",
+      "departure_position": [
+         11.5466,
+         104.844
+      ],
+      "flight": "MI607",
+      "latitude": 5.91326,
+      "longitude": 104.13047,
+      "source": "ESTI",
+      "type": "B738"
+   }
+]
